@@ -1,0 +1,358 @@
+             /*first section*/
+             
+             .first {
+                 padding-top: 64px;
+                 padding-left: 145px;
+                 display: flex;
+                 padding-right: none;
+                 margin: 64px 145px;
+                 background: rgba(229, 84, 115, 0.10);
+                 justify-content: space-between;
+             }
+             
+             .btn1 {
+                 display: inline-flex;
+                 padding: 20px 43px;
+                 align-items: flex-start;
+                 gap: 10px;
+                 border-radius: 8px;
+                 background: #E55473;
+                 color: #FFF;
+                 font-family: Lato;
+                 font-size: 20px;
+                 font-style: normal;
+                 font-weight: 700;
+                 line-height: normal;
+             }
+             
+             .h1 {
+                 color: #272727;
+                 font-family: Lato;
+                 font-size: 80px;
+                 font-weight: 800;
+                 display: flex;
+                 width: 708px;
+                 flex-direction: column;
+             }
+             
+             .p1 {
+                 width: 634px;
+                 flex-direction: column;
+             }
+             
+             .img1 {
+                 width: 635px;
+                 height: 800px;
+             }
+             
+             .div2 {
+                 padding-top: 64px;
+                 padding-left: 145px;
+                 display: flex;
+                 padding-right: none;
+                 margin: 64px 145px;
+             }
+             /*section two*/
+             
+             .two {
+                 padding-left: 250px;
+                 padding-right: 250px;
+                 margin-top: 50px;
+                 width: 1920px;
+                 height: 867px;
+             }
+             
+             .mega {
+                 display: flex;
+                 padding-top: 10px 240px 28px 240px;
+                 justify-content: space-between;
+             }
+             
+             h2 {
+                 color: #272727;
+                 text-align: center;
+                 font-family: Lato;
+                 font-size: 40px;
+                 font-style: normal;
+                 font-weight: 800;
+                 padding-left: 764px;
+                 padding-right: 764px;
+             }
+             
+             .p2 {
+                 flex-direction: column;
+                 color: rgba(39, 39, 39, 0.60);
+                 text-align: center;
+                 font-family: Lato;
+                 font-size: 18px;
+                 font-weight: 400;
+                 line-height: 30px;
+                 flex-direction: column;
+                 padding-left: 663px;
+                 padding-right: 663px;
+             }
+             
+             .f1 {
+                 width: 464px;
+                 height: 538px;
+                 background: rgba(167, 33, 98, 0.15);
+                 border-radius: 300px 300px 0px 0px;
+             }
+             
+             .fr1 {
+                 width: 310px;
+                 height: 428px;
+                 padding: 110px 78px 0px 76px;
+             }
+             
+             .f2 {
+                 width: 464px;
+                 height: 538px;
+                 border-radius: 300px 300px 0px 0px;
+                 background: rgba(5, 151, 160, 0.15);
+             }
+             
+             .fr2 {
+                 width: 370px;
+                 height: 370px;
+                 padding: 117px 47px 51px 47px;
+             }
+             
+             .f3 {
+                 width: 464px;
+                 height: 538px;
+                 border-radius: 300px 300px 0px 0px;
+                 background: rgba(71, 125, 17, 0.15);
+             }
+             
+             .fr3 {
+                 width: 314px;
+                 height: 471px;
+                 padding: 67px 75px 0px 75px;
+             }
+             
+             .fig1 {
+                 color: #272727;
+                 text-align: center;
+                 font-family: Lato;
+                 font-size: 24px;
+                 font-weight: 700;
+                 line-height: 35px;
+                 text-decoration-line: underline;
+             }
+             
+             .fig2 {
+                 color: #272727;
+                 text-align: center;
+                 font-family: Lato;
+                 font-size: 24px;
+                 font-weight: 700;
+                 line-height: 35px;
+                 text-decoration-line: underline;
+             }
+             
+             .fig3 {
+                 color: #272727;
+                 text-align: center;
+                 font-family: Lato;
+                 font-size: 24px;
+                 font-weight: 700;
+                 line-height: 35px;
+                 text-decoration-line: underline;
+             }
+             /*section three*/
+             
+             .three {
+                 width: 1440px;
+                 height: 20px;
+                 border-radius: 8px;
+                 background: rgba(39, 39, 39, 0.05);
+                 display: flex;
+                 justify-content: space-between;
+                 padding: 240px;
+                 margin-left: 240px;
+             }
+             
+             .four {
+                 color: #272727;
+                 font-family: Lato;
+                 font-size: 40px;
+                 font-weight: 800;
+                 padding: 240px;
+                 border-radius: 8px;
+                 background: rgba(229, 84, 115, 0.05);
+                 display: flex;
+                 justify-content: space-between;
+                 margin: 240px 240px 0px 240px;
+             }
+             
+             .hot {
+                 color: #272727;
+                 font-family: Lato;
+                 font-size: 40px;
+                 font-weight: 800;
+             }
+             
+             .it {
+                 display: flex;
+                 width: 594px;
+                 flex-direction: column;
+                 color: rgba(39, 39, 39, 0.60);
+                 text-align: center;
+                 font-family: Lato;
+                 font-size: 18px;
+                 font-weight: 400;
+                 line-height: 30px;
+             }
+             
+             .btn2 {
+                 display: inline-flex;
+                 padding: 20px 43px;
+                 align-items: flex-start;
+                 gap: 10px;
+                 border-radius: 8px;
+                 background: #E55473;
+                 color: #FFF;
+                 font-family: Lato;
+                 font-size: 20px;
+                 font-weight: 700;
+             }
+             
+             .img8 {
+                 width: 318px;
+                 height: 420px;
+             }
+             
+             .span {
+                 color: #E55473;
+             }
+             
+             .five {
+                 width: 1920px;
+                 height: 467px;
+                 background: #FFF;
+                 padding: 240px;
+             }
+             
+             .ins {
+                 color: #272727;
+                 text-align: center;
+                 font-family: Lato;
+                 font-size: 40px;
+                 font-weight: 800;
+             }
+             
+             .long {
+                 display: flex;
+                 width: 594px;
+                 flex-direction: column;
+                 flex-shrink: 0;
+                 color: rgba(39, 39, 39, 0.60);
+                 text-align: center;
+                 font-family: Lato;
+                 font-size: 18px;
+                 font-style: normal;
+                 font-weight: 400;
+                 line-height: 30px;
+                 padding-left: 663px;
+                 padding-right: 663px;
+             }
+             
+             .meg2 {
+                 display: flex;
+                 justify-content: space-between;
+             }
+             
+             .six {
+                 width: 2040px;
+                 height: 349px;
+                 border-radius: 8px;
+                 background: url(Rectangle\ 9.png), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+                 margin: 240px 240px 0px 240px;
+             }
+             
+             .email {
+                 width: 700px;
+                 height: 64px;
+                 border-radius: 8px;
+                 background: #FFF;
+             }
+             
+             .btn3 {
+                 width: 150px;
+                 height: 64px;
+                 flex-shrink: 0;
+                 border-radius: 8px;
+                 background: #E55473;
+                 color: #FFF;
+                 font-family: Lato;
+                 font-size: 20px;
+                 font-weight: 700;
+                 text-align: center;
+             }
+             
+             .toto {
+                 color: #272727;
+                 text-align: center;
+                 font-family: Lato;
+                 font-size: 40px;
+                 font-weight: 800;
+             }
+             
+             .tata {
+                 color: rgba(39, 39, 39, 0.60);
+                 text-align: center;
+                 font-family: Lato;
+                 font-size: 18px;
+                 font-weight: 400;
+                 line-height: 30px;
+             }
+             
+             .meg4 {
+                 text-align: center;
+             }
+             
+             .foot {
+                 width: 1922px;
+                 height: 449px;
+                 background: #111010;
+                 margin: 240px;
+             }
+             
+             .fav {
+                 color: #E55473;
+             }
+             
+             .tfx {
+                 font-family: Lato;
+                 font-size: 48px;
+                 font-weight: 800;
+                 padding-left: 831px;
+             }
+             
+             .rdj {
+                 color: #FFF;
+             }
+             
+             .z2 {
+                 display: flex;
+                 width: 625px;
+                 flex-direction: column;
+                 color: rgba(255, 255, 255, 0.90);
+                 text-align: center;
+                 font-family: Lato;
+                 font-size: 18px;
+                 font-weight: 400;
+                 line-height: 30px;
+                 padding-left: 648px;
+             }
+             
+             .s3 {
+                 color: rgba(255, 255, 255, 0.40);
+                 text-align: center;
+                 font-family: Lato;
+                 font-size: 16px;
+                 font-style: normal;
+                 font-weight: 400;
+                 line-height: normal;
+             }
